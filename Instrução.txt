@@ -1,0 +1,46 @@
+Criar uma pasta com o nome do projeto
+Abrir esta pasta
+Criar uma pasta chamada frontend
+Criar uma pasta chamada backend
+Abrir o VS Code
+Ir em abrir pasta
+Selecionar a pasta que sera utilizado
+
+Projeto backend
+
+
+digite a sequencia
+
+1 - npm install -g cors express mongoose dotenv
+2 - npm initi -y
+3 - npm install express mongoose dotenv
+4 - npm install --save-dev nodemon
+-g para instalação global - no pc 
+--save-dev ambiente de desenvolvimento
+-i abreviação do install
+nodemon - reinicializar o nosso servidor quando alterarmos algo
+
+Crie as pastas
+Models: sera utilizado para armazenar os modelos dos nossos projetos
+Controllers: classes responsaveis por processar e salvar regras de negocio
+db: classe responsavel pelo banco de dados (conexão)
+routes: rotas que o fluxo de informação deve seguir no sistema
+
+verbos HTPT
+GET: Pegar - aqui eu vou soliciar algo a uma pagina, e os criterios são abertos,
+as rotas são utilizadas para consulta
+
+POST: Postar - eu envio informações envelopadas ou protejidas detro de um 
+requisito ao servidor
+
+PUT OU UPDATE : Atualizar - ele vai passar o id do registro que voce quer 
+atualizar e envia informações envelopadas ou protejidas de dados que voce quer 
+atualizar
+
+DELETE : Remover - remove o registro que voce quer destruir no banco de dados. 
+Aqui voce passa a id do registro
+
+OPTION : que vai verificar a disponibilidade do objeto
+
+Clicar em terminal > novo terminal
+
