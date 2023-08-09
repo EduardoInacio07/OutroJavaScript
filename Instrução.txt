@@ -44,3 +44,9 @@ OPTION : que vai verificar a disponibilidade do objeto
 
 Clicar em terminal > novo terminal
 
+string: texto
+interger: numero inteiro
+boolean: verdadeiro e falso
+double: 4 = 4.0 1 1= 1.0
+date: data e hora
+timestamp: data e hora
